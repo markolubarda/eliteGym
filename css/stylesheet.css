@@ -4,6 +4,9 @@ html {
 body {
     background: url("../img/dirtyBackground.jpg");
 }
+.no-padding {
+    padding: 0;
+}
 #mainSection {
 
 }
@@ -28,4 +31,43 @@ body {
 }
 .marginBottom30 {
     margin-bottom: 30px;
+}
+.marginBottom100 {
+    margin-bottom: 100px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+.parallax {
+    /* The image used */
+    background-image: url("../img/slider1.png");
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-two {
+    /* The image used */
+    background-image: url("../img/slider3.png");
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thumbnailImg {
+    width: 85%;
 }
