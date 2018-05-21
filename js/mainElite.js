@@ -29,4 +29,11 @@ function showSlides(n) {
 	// captionText.innerHTML = dots[slideIndex-1].alt;
 }
 
+$( document ).ready(function() {
+	function colorChange() {
+		$('.arrow').css('color', '#ffffff');
+	}
+
+	colorChange();
+});
 
