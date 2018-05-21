@@ -29,7 +29,7 @@ body {
     width: 100%;
 }
 .carousel-inner {
-    height: 700px;
+    height: 75vh;
 }
 .margin-auto {
     margin-left: auto;
