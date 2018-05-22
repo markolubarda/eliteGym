@@ -1,3 +1,4 @@
+// gallery slider
 var slideIndex = 1;
 showSlides(slideIndex);
 
@@ -34,6 +35,7 @@ function showSlides(n) {
 	// captionText.innerHTML = dots[slideIndex-1].alt;
 }
 
+// change arrow color to white
 $( document ).ready(function() {
 	function colorChange() {
 		$('.arrow').css('color', '#ffffff');
