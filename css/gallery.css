@@ -22,8 +22,9 @@
 .next {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 42%;
     margin-top: -50px;
+    padding: 16px;
     color: white;
     font-weight: bold;
     font-size: 40px;
