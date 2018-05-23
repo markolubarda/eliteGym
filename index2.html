@@ -216,7 +216,57 @@
 			<div class="col-md-4 offset-md-4 text-center">
 				<p class="whiteText">Nehmen Sie sich Zeit und lesen Sie bitte unsere allgemeine Geschäftsbedingungen</p>
 				<!--<img src="img/icons/button_agbs.png">-->
-				<button class="agbs" onclick="openModal()">AGB'S</button>
+				<button id="openModalAgbs" class="agbs" data-toggle="modal" data-target="#exampleModalCenter">AGB'S</button>
+			</div>
+		</div>
+
+		<!--<button id="myBtn">Open Modal</button>-->
+
+		<!-- Modal -->
+		<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLongTitle">Allgemeine Geschäftsbedingungen</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<p>Alle Leistungen vom Elite Gym GmbH erfolgen auf der Grundlage der nachfolgenden Geschäftsbedingungen.</p>
+						<p>1. Die gültige Mitgliedschaft berechtigt den Kunden die zur Verfügung stehenden Anlagen während den regulären öffnungszeiten von Elite Gym zu benutzen.
+							Elite Gym behält sich ausdrücklich das Recht vor, Kursplanänderungen jederzeit vorzunehmen und/oder die öffnungszeiten der verschiedenen Bereiche den veränderten Verhältnissen anzupassen.
+							Im Abonnementspreis für Fitness und/oder Kurse sind die folgenden Dienstleistungen zusätzlich zur Nutzung der Infrastruktur (Trainingsgeräte,
+						</p>
+						<p>
+							Umkleiden, Duschen) enthalten:
+							Abklärung der Trainingsmotive und Trainingsziele
+							Gesundheitliche Risikoabklärung
+							Ermittlung der körperlichen Trainingsbelastung (Cardio- und Krafttraining)
+							Trainingsplanung
+							Bei Trainingsbeginn 2 betreute Trainingseinheiten, anschliessend monatlich ein
+							betreutes Optimierungstraining
+							2. Die Mitgliedschaft ist persönlich und nicht übertragbar und wird automatisch verlängert.
+							3. Die Benutzung der Trainingsanlagen und Trainingsgeräte sowie die Teilnahme an den einzelnen Kursen und Veranstaltungen von Elite Gym erfolgt auf eigenes Risiko und auf eigene Gefahr des Kunden. Seitens Elite Gym wird jede Haftung für Schäden bei Unfällen, Verletzungen und/oder Krankheiten des Kunden ausdrücklich abgelehnt bzw. ist ausdrücklich auf Vorsatz und Grobfahrlässigkeit beschränkt, ebenso wie die Haftung für Hilfspersonen von Elite Gym. Die Haftung für den Verlust von Wertgegenständen des Kunden in den Räumlichkeiten von Elite Gym wird ausdrücklich wegbedungen.
+							4. Der Kunde ist verpflichtet, die Hausordnung einzuhalten sowie den Anweisungen des Personals von Elite Gym Folge zu leisten. Allfällige änderungen und/oder Ergänzungen der Hausordnung werden in den Garderoben von Elite Gym ausgehangen und gelten mit dem Datum des Aushanges als integrierender Bestandteil des Vertrags. Im Falle von Zuwiderhandlungen gegen die Hausordnung und/oder bei Nichtbefolgung erteilter Weisungen des Personals ist Elite Gym berechtigt, nach vorgängig erfolgter Mahnung, den Vertrag mit sofortiger Wirkung zu kündigen und den Mitgliedschaftsausweis einzuziehen bzw. für ungültig zu erklären; ein Rückforderungsanspruch des Trainingsteilnehmers ist ausgeschlossen. Bei schwerwiegender Störung des Betriebs durch den Kunden ist die Ansetzung einer Mahnfrist nicht erforderlich.
+							5. Der Kunde haftet für die von ihm verursachten Beschädigungen der Betriebseinrichtungen sowie für den Verlust von Leihgegenständen und hat Elite Gym die entsprechenden Reparatur- und/oder Ersatzkosten vollumfänglich zu ersetzen.
+							6. Die allfällige Nichtinanspruchnahme des Leistungsangebotes von Elite Gym durch
+							den Kunden berechtigen ihn weder zu einer Rückforderung noch zur Geltendmachung einer Reduktion des bezahlten Mitgliedschaftsbeitrages.
+							7. Bei einer allfälligen Betriebsunterbrechung des Studios am Ort der Vertragsunterzeichnung, welche von Elite Gym verschuldet ist und die länger als eine (1) Kalenderwoche gedauert hat, verlängert sich die Dauer der Mitgliedschaft um die Dauer der Betriebsunterbrechung, maximal aber höchstens um zwei (2) volle Monate.
+							8. Bei allfälligen Ferienabwesenheiten des Kunden, die zusammenhängend länger als vier (4) Wochen dauern, wird dem Mitglied bei Vertragserneuerung eine Zeitgutschrift unter Abzug von vier (4) Wochen gewährt, unter Vorlage der entsprechenden Belege, welche die zusammenhängende Ferienabwesenheit nachweisen.
+							9. Zeitgutschrift: Im Falle eines Unterbruches in den nachfolgend abschliessend aufgeführten Fällen wird dem Kunden eine Zeitgutschrift gewährt, sofern die Verhinderung zusammenhängend mindestens fünf (5) Tage gedauert hat und der Nachweis der Verhinderung erbracht wird. Eine geldwerte Rückerstattung einer Zeitgutschrift, auch im Falle der Nichterneuerung der Mitgliedschaft, ist ausdrücklich ausgeschlossen. Zeitgutschriften werden nur in folgenden Fällen erteilt:
+							- Bei Krankheit, Unfall oder Schwangerschaft gegen Vorlage eines Arztzeugnisses - Bei Zivil-, Zivilschutz- oder Militärdienst gegen Vorlage des Aufgebotes
+							- Bei bescheinigtem Ausbildungsaufenthalt im Ausland
+							- Bei beruflich bedingtem Auslandaufenthalt gegen Vorlage einer Bestätigung
+							10. Rückerstattungen: Rückerstattungen bezahlter Beiträge pro rata temporis erfolgen ausschliesslich nur bei ärztlich verordneter Trainingsdispens. Der Mitgliederbeitrag wird pro rata temporis für die Restlaufzeit des Vertrages zurückvergütet, wobei davon eine Administrationsgebühr von CHF 100.00 in Abzug gebracht wird.
+							11. Hausordnung: Mit der Unterzeichnung der Vertragsbestimmungen akzeptiert der Kunde gleichzeitig die ihm ausgehändigte Hausordnung sowie allfällige änderungen derselben gemäss dem jeweils aktuellen Aushang an der Infowand.
+						</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Save changes</button>
+					</div>
+				</div>
 			</div>
 		</div>
 
