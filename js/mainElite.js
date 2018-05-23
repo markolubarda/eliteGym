@@ -44,3 +44,6 @@ $( document ).ready(function() {
 	colorChange();
 });
 
+function openModal() {
+	
+}

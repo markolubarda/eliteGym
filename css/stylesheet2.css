@@ -73,6 +73,21 @@ body {
     font-size: 20px;
 }
 
+.agbs {
+    background:    #ffffff;
+    background:    -webkit-linear-gradient(#000000, #ffffff 50%, #000000);
+    background:    linear-gradient(#000000, #ffffff 50%, #000000);
+    border:        1px solid #ffffff;
+    border-radius: 10px;
+    box-shadow:    2px 2px #000000;
+    padding:       12px 24px;
+    color:         #000000;
+    display:       inline-block;
+    font:          normal 700 26px/1 "Roboto", sans-serif;
+    text-align:    center;
+    text-shadow:   2px 2px #ffffff;
+}
+
 .instagram {
     width: 154px;
     height: 50px;
