@@ -88,6 +88,12 @@ body {
     text-shadow:   2px 2px #ffffff;
 }
 
+.titleSeparLine {
+    color: #ffffff;
+    border: 0.5px solid;
+    width: 60%;
+}
+
 .instagram {
     width: 154px;
     height: 50px;
