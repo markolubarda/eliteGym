@@ -43,3 +43,7 @@ $( document ).ready(function() {
 
 	colorChange();
 });
+
+$(function flipImg() {
+	$('.thumbnailImg').addClass('animated').addClass('flip');
+});
