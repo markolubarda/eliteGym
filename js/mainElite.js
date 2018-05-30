@@ -45,14 +45,14 @@ $( document ).ready(function() {
 
 
 function flipImg() {
-	$('#kraft').addClass('animated').addClass('flip');
+	$('#kraft').addClass('animated flip');
 }
 function flipImg2() {
-	$('#cardio').addClass('animated').addClass('flip');
+	$('#cardio').addClass('animated flip');
 }
 function flipImg3() {
-	$('#bar').addClass('animated').addClass('flip');
+	$('#bar').addClass('animated flip');
 }
 function flipReset() {
-	$('.thumbnailImg').removeClass('animated').removeClass('flip');
+	$('.thumbnailImg').removeClass('animated flip');
 }
