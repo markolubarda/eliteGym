@@ -44,6 +44,16 @@ $( document ).ready(function() {
 	colorChange();
 });
 
-$(function flipImg() {
-	$('.thumbnailImg').addClass('animated').addClass('flip');
-});
+
+function flipImg() {
+	$('#kraft').addClass('animated').addClass('flip');
+}
+function flipImg2() {
+	$('#cardio').addClass('animated').addClass('flip');
+}
+function flipImg3() {
+	$('#bar').addClass('animated').addClass('flip');
+}
+function flipReset() {
+	$('.thumbnailImg').removeClass('animated').removeClass('flip');
+}
