@@ -19,7 +19,7 @@ body {
     position: relative;
     z-index: -1;
 }
-.whiteText {
+.whiteText, .close:focus, .close:hover{
     color: #ffffff;
 }
 .imgSize {
@@ -91,6 +91,11 @@ body {
     text-shadow:   2px 2px #ffffff;
 }
 
+.modal-content {
+    background: url("../img/dirtyBackground.jpg");
+    border: 1px solid #ffffff;
+}
+
 .titleSeparLine {
     color: #ffffff;
     border: 0.5px solid;
@@ -109,3 +114,11 @@ body {
     padding: 20px;
 }
 
+@media only screen and (min-device-width : 300px) and (max-device-width : 900px) {
+    .prev {
+        left: 5px;
+    }
+    .next {
+        right: 5px;
+    }
+}
