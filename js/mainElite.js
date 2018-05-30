@@ -40,7 +40,6 @@ $( document ).ready(function() {
 	function colorChange() {
 		$('.arrow').css('color', '#ffffff');
 	}
-
 	colorChange();
 });
 
