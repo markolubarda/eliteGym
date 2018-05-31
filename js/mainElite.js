@@ -44,15 +44,15 @@ $( document ).ready(function() {
 });
 
 
-function flipImg() {
-	$('#kraft').addClass('animated flip');
-}
-function flipImg2() {
-	$('#cardio').addClass('animated flip');
-}
-function flipImg3() {
-	$('#bar').addClass('animated flip');
-}
-function flipReset() {
-	$('.thumbnailImg').removeClass('animated flip');
-}
+// function flipImg() {
+// 	$('.thumbnail').addClass('thumbnailBorder');
+// }
+// function flipImg2() {
+// 	$('#cardio').addClass('animated flip');
+// }
+// function flipImg3() {
+// 	$('#bar').addClass('animated flip');
+// }
+// function flipReset() {
+// 	$('.thumbnail').removeClass('thumbnailBorder');
+// }
