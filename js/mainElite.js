@@ -42,17 +42,3 @@ $( document ).ready(function() {
 	}
 	colorChange();
 });
-
-
-// function flipImg() {
-// 	$('.thumbnail').addClass('thumbnailBorder');
-// }
-// function flipImg2() {
-// 	$('#cardio').addClass('animated flip');
-// }
-// function flipImg3() {
-// 	$('#bar').addClass('animated flip');
-// }
-// function flipReset() {
-// 	$('.thumbnail').removeClass('thumbnailBorder');
-// }

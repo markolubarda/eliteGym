@@ -75,6 +75,10 @@ body {
 .thumbnail:hover {
     border: 1px solid #ffffff;
 }
+.modalImg {
+    width: 100%;
+    margin-bottom: 10px;
+}
 .table {
     font-size: 20px;
 }
