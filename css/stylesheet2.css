@@ -114,6 +114,11 @@ body {
     height: 50px;
 }
 
+.column {
+    float: left;
+    width: 33.33%;
+}
+
 .footer-info {
     background-color: #1B1B1E;
     color: white;
