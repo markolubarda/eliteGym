@@ -119,6 +119,12 @@ body {
     width: 33.33%;
 }
 
+.contactBox {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .footer-info {
     background-color: #1B1B1E;
     color: white;
