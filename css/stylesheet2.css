@@ -35,6 +35,9 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.marginLeft15 {
+    margin-left: 15px;
+}
 .marginTop15 {
     margin-top: 15px;
 }
@@ -43,6 +46,9 @@ body {
 }
 .marginBottom0 {
     margin-bottom: 0;
+}
+.marginBottom10 {
+    margin-bottom: 10px;
 }
 .marginBottom30 {
     margin-bottom: 30px;
