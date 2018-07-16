@@ -103,10 +103,7 @@ body {
 }
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
-}
-.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: #fff;
-    border: 1px solid #fff;
+    font-size: 20px;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color: #d3d3d3;
@@ -117,14 +114,13 @@ body {
     color: #fff;
     border: 1px solid;
 }
-.thumbnail {
-    cursor: pointer;
-}
 .thumbnailImg {
     width: 85%;
 }
 .thumbnail:hover {
     border: 1px solid #fff;
+    cursor: pointer;
+    opacity: 0.75;
 }
 .modalImg {
     width: 100%;
@@ -220,6 +216,9 @@ body {
     }
     #contactArea {
         margin-bottom: 30px;
+    }
+    .googleMap {
+        width: 100%;
     }
     .footer-info {
         justify-content: center;
