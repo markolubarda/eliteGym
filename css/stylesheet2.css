@@ -8,6 +8,43 @@ body {
     position: absolute;
     width: 100%;
 }
+#burgerMenu {
+    display: none;
+}
+#burgerMenu .bar1, #burgerMenu .bar2, #burgerMenu .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #fff;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+#burgerMenu.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+#burgerMenu.change .bar2 {
+    opacity: 0; }
+#burgerMenu.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-9px, -7px);
+}
+#smallMenu {
+    display: none;
+}
+#smallMenu div {
+    display: block;
+    padding: 10px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.mobileMenu a {
+    color: #fff;
+    border: 1px solid;
+}
+.hide {
+    display: none !important;
+}
 .no-padding {
     padding: 0;
 }
@@ -60,11 +97,11 @@ body {
     margin-bottom: 100px;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #ffffff;
+    color: #fff;
 }
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: #ffffff;
-    border: 1px solid #ffffff;
+    color: #fff;
+    border: 1px solid #fff;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color: #d3d3d3;
@@ -72,14 +109,17 @@ body {
     text-decoration: underline;
 }
 .separeLine {
-    color: #ffffff;
+    color: #fff;
     border: 1px solid;
+}
+.thumbnail {
+    cursor: pointer;
 }
 .thumbnailImg {
     width: 85%;
 }
 .thumbnail:hover {
-    border: 1px solid #ffffff;
+    border: 1px solid #fff;
 }
 .modalImg {
     width: 100%;
@@ -90,10 +130,10 @@ body {
 }
 
 .agbs {
-    background:    #ffffff;
+    background:    #fff;
     background:    -webkit-linear-gradient(#000000, #ffffff 50%, #000000);
     background:    linear-gradient(#000000, #ffffff 50%, #000000);
-    border:        1px solid #ffffff;
+    border:        1px solid #fff;
     border-radius: 10px;
     box-shadow:    2px 2px #000000;
     padding:       12px 24px;
@@ -106,11 +146,11 @@ body {
 
 .modal-content {
     background: url("../img/dirtyBackground.jpg");
-    border: 1px solid #ffffff;
+    border: 1px solid #fff;
 }
 
 .titleSeparLine {
-    color: #ffffff;
+    color: #fff;
     border: 0.5px solid;
     width: 60%;
 }
@@ -145,5 +185,41 @@ body {
     }
     .next {
         right: 5px;
+    }
+    nav ul.flexing-container {
+        display: none;
+    }
+    #burgerMenu {
+        display: block;
+    }
+    #smallMenu {
+        display: block;
+        width: 100%;
+    }
+    .logo {
+        width: 50%;
+    }
+    .fadeInUpBig {
+        width: 100%;
+    }
+    #mainSection {
+        height: 250px;
+        position: relative;
+        top: 60px;
+    }
+    .thumbnail {
+        margin-top: 15px;
+    }
+    #contactArea {
+        margin-bottom: 30px;
+    }
+    .footer-info {
+        justify-content: center;
+    }
+    .instagram {
+        margin-bottom: 15px;
+    }
+    .facebooklogo {
+        margin-top: 15px;
     }
 }
