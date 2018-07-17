@@ -6,9 +6,6 @@
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
   </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="markolubarda" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -123,9 +120,6 @@
         </selected-state>
       </profile-state>
     </entry>
-  </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="masterDetails">
     <states>

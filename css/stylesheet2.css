@@ -115,7 +115,10 @@ body {
     border: 1px solid;
 }
 .thumbnailImg {
-    width: 85%;
+    width: 100%;
+}
+#bar {
+    height: 138px;
 }
 .thumbnail:hover {
     border: 1px solid #fff;
@@ -214,6 +217,9 @@ body {
     .thumbnail {
         margin-top: 15px;
     }
+    #bar {
+        height: unset;
+    }
     #contactArea {
         margin-bottom: 30px;
     }
@@ -241,6 +247,9 @@ body {
     }
     .gymTitle {
         margin-bottom: 10px;
+    }
+    #bar {
+        height: unset;
     }
     .instagram {
         width: 110px;
