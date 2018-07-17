@@ -230,3 +230,23 @@ body {
         margin-top: 15px;
     }
 }
+
+@media only screen and (max-device-width : 360px) {
+    .mobileMenu a {
+        font-size: 14px;
+        border: 2px solid;
+    }
+    .animated {
+        margin-top: 50px;
+    }
+    .gymTitle {
+        margin-bottom: 10px;
+    }
+    .instagram {
+        width: 110px;
+        height: 36px;
+    }
+    .facebooklogo {
+        width: 100%;
+    }
+}
