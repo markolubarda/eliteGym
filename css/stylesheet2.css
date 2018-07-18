@@ -7,6 +7,7 @@ body {
 #navbarNav {
     position: absolute;
     width: 100%;
+    text-shadow: 2px 2px orange;
 }
 #burgerMenu {
     display: none;
@@ -118,7 +119,7 @@ body {
     width: 100%;
 }
 #kraft, #cardio, #bar {
-    height: 148px;
+    height: 160px;
 }
 .thumbnail:hover {
     border: 1px solid #fff;
@@ -217,8 +218,11 @@ body {
     .thumbnail {
         margin-top: 15px;
     }
-    #bar {
+    #kraft, #cardio, #bar {
         height: unset;
+    }
+    .table, .mobileFont {
+        font-size: 17px;
     }
     #contactArea {
         margin-bottom: 30px;
@@ -249,8 +253,11 @@ body {
     .gymTitle {
         margin-bottom: 10px;
     }
-    #bar {
+    #kraft, #cardio, #bar {
         height: unset;
+    }
+    .table, .mobileFont {
+        font-size: 14px;
     }
     .instagram {
         width: 110px;
