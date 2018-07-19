@@ -240,6 +240,9 @@ body {
     .facebooklogo {
         margin-top: 15px;
     }
+    .fontSizeMobile {
+        font-size: 15px;
+    }
 }
 
 @media only screen and (max-device-width : 360px) {
@@ -258,6 +261,9 @@ body {
     }
     .table, .mobileFont {
         font-size: 14px;
+    }
+    .contactBox {
+        margin-bottom: 30px;
     }
     .instagram {
         width: 110px;
