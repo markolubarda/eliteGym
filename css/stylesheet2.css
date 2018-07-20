@@ -5,9 +5,8 @@ body {
     background: url("../img/dirtyBackground.jpg");
 }
 #navbarNav {
-    position: absolute;
     width: 100%;
-    text-shadow: 2px 2px orange;
+    text-shadow: 2px 2px grey;
 }
 #burgerMenu {
     display: none;
@@ -58,6 +57,7 @@ body {
 #mainSection {
     position: relative;
     z-index: -1;
+    margin-bottom: 8%;
 }
 .whiteText, .close:focus, .close:hover{
     color: #ffffff;
@@ -69,7 +69,7 @@ body {
     width: 100%;
 }
 .carousel-inner {
-    height: 75vh;
+    height: 60vh;
 }
 .margin-auto {
     margin-left: auto;
@@ -215,6 +215,9 @@ body {
         position: relative;
         top: 60px;
     }
+    .separeLine {
+        margin-top: 22%;
+    }
     .thumbnail {
         margin-top: 15px;
     }
@@ -271,5 +274,27 @@ body {
     }
     .facebooklogo {
         width: 100%;
+    }
+}
+
+@media (min-width: 901px) {
+    .navbar-expand-lg .navbar-nav {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+    .collapse {
+        display: block;
+    }
+    .collapse.navbar-collapse {
+        position: absolute;
+        right: 3%;
+    }
+    ul.navbar-nav {
+        float: right;
+    }
+    li.nav-item {
+        margin-right: 25px;
     }
 }
