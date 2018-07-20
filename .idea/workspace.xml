@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b26c18d-e08b-41aa-ab4e-3119622a5526" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/burgerMenu.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylesheet2.css" afterPath="$PROJECT_DIR$/css/stylesheet2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mainElite.js" afterPath="$PROJECT_DIR$/js/mainElite.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +53,8 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3615">
-              <caret line="241" column="7" lean-forward="true" selection-start-line="241" selection-start-column="7" selection-end-line="241" selection-end-column="7" />
+            <state relative-caret-position="-2469">
+              <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -103,8 +100,8 @@
       <file leaf-file-name="stylesheet2.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylesheet2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="609">
+              <caret line="301" column="27" lean-forward="true" selection-start-line="301" selection-start-column="27" selection-end-line="301" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -164,10 +161,10 @@
         <option value="$PROJECT_DIR$/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/css/normalize.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/js/mainElite.js" />
         <option value="$PROJECT_DIR$/js/burgerMenu.js" />
         <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/css/stylesheet2.css" />
       </list>
     </option>
@@ -873,11 +870,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532083249463</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added burgerMenu.js and styles 20.07">
+      <created>1532084498700</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532084498700</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34026000" />
+    <option name="totallyTimeSpent" value="35095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,7 +943,8 @@
     <MESSAGE value="responsive changes 18.07.2018" />
     <MESSAGE value="responsive changes 19.07.2018" />
     <MESSAGE value="new page gallery.html and styles 20.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="new page gallery.html and styles 20.07" />
+    <MESSAGE value="added burgerMenu.js and styles 20.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="added burgerMenu.js and styles 20.07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1073,6 +1078,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,6 +1177,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,8 +1256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3615">
-          <caret line="241" column="7" lean-forward="true" selection-start-line="241" selection-start-column="7" selection-end-line="241" selection-end-column="7" />
+        <state relative-caret-position="-2469">
+          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1294,8 +1301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylesheet2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="609">
+          <caret line="301" column="27" lean-forward="true" selection-start-line="301" selection-start-column="27" selection-end-line="301" selection-end-column="27" />
           <folding />
         </state>
       </provider>

@@ -296,3 +296,11 @@ body {
         margin-right: 25px;
     }
 }
+
+@media only screen and (max-device-width : 990px) {
+    #galleryHomeBtn {
+        position: absolute;
+        top: 15px;
+        right: 5%;
+    }
+}
