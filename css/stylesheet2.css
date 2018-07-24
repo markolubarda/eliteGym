@@ -248,6 +248,12 @@ body {
     .fontSizeMobile {
         font-size: 15px;
     }
+    .carousel {
+        position: absolute;
+    }
+    .glyphicon {
+        display: none !important;
+    }
 }
 
 @media only screen and (max-device-width : 360px) {
