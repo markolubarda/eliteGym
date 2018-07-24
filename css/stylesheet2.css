@@ -154,6 +154,10 @@ body {
     border: 1px solid #fff;
 }
 
+.grayBackground {
+    background: linear-gradient(to bottom right, #232323, #acb2b6);
+}
+
 .titleSeparLine {
     color: #fff;
     border: 0.5px solid;
