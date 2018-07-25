@@ -120,6 +120,9 @@ ul.navbar-nav {
 .marginBottom100 {
     margin-bottom: 100px;
 }
+.paddingTop36 {
+    padding-top: 36px;
+}
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
     font-size: 20px;
@@ -149,6 +152,8 @@ ul.navbar-nav {
 }
 .table {
     font-size: 20px;
+    width: 75%;
+    margin: auto;
 }
 
 .agbs {
@@ -173,6 +178,8 @@ ul.navbar-nav {
 
 .grayBackground {
     background: linear-gradient(to bottom right, #232323, #acb2b6);
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .titleSeparLine {
