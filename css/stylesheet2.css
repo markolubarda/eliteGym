@@ -169,6 +169,7 @@ ul.navbar-nav {
     font:          normal 700 26px/1 "Roboto", sans-serif;
     text-align:    center;
     text-shadow:   2px 2px #ffffff;
+    cursor: pointer;
 }
 
 .modal-content {
