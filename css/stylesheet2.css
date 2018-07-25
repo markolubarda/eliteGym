@@ -78,7 +78,7 @@ ul.navbar-nav {
 #mainSection {
     position: relative;
     z-index: -1;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 .whiteText, .close:focus, .close:hover{
     color: #ffffff;
