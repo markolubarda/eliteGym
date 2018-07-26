@@ -218,12 +218,6 @@ ul.navbar-nav {
 }
 
 @media only screen and (max-device-width : 900px) {
-    .prev {
-        left: 5px;
-    }
-    .next {
-        right: 5px;
-    }
     nav ul.flexing-container {
         display: none;
     }
@@ -245,10 +239,7 @@ ul.navbar-nav {
         height: 250px;
         position: relative;
         top: 60px;
-        margin-bottom: 30%;
-    }
-    .separeLine {
-        margin-top: 22%;
+        margin-bottom: 12%;
     }
     .thumbnail {
         margin-top: 15px;
@@ -257,7 +248,11 @@ ul.navbar-nav {
         height: unset;
     }
     .table, .mobileFont {
-        font-size: 17px;
+        font-size: 15px;
+        width: 100%;
+    }
+    .JahresAbo {
+        margin-top: 25px;
     }
     #contactArea {
         margin-bottom: 30px;
@@ -278,11 +273,11 @@ ul.navbar-nav {
     .fontSizeMobile {
         font-size: 15px;
     }
-    .carousel {
-        position: absolute;
-    }
     .glyphicon {
         display: none !important;
+    }
+    .paddingTop36 {
+        padding-top: 0;
     }
 }
 
