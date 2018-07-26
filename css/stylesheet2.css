@@ -213,6 +213,10 @@ ul.navbar-nav {
     padding: 20px;
 }
 
+#galleryCarousel, #myCarousel, .item, .carousel-control {
+    border-radius: 15px;
+}
+
 @media only screen and (max-device-width : 900px) {
     .prev {
         left: 5px;
