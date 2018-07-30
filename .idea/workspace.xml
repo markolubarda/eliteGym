@@ -4,6 +4,7 @@
     <list default="true" id="4b26c18d-e08b-41aa-ab4e-3119622a5526" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylesheet2.css" afterPath="$PROJECT_DIR$/css/stylesheet2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="478" column="0" lean-forward="true" selection-start-line="478" selection-start-column="0" selection-end-line="478" selection-end-column="0" />
+            <state relative-caret-position="471">
+              <caret line="481" column="48" lean-forward="true" selection-start-line="481" selection-start-column="48" selection-end-line="481" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -89,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet2.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stylesheet2.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/stylesheet2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="169" column="14" lean-forward="true" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
+            <state relative-caret-position="433">
+              <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -140,7 +141,6 @@
       <find>:hover</find>
       <find>marginB</find>
       <find>tab</find>
-      <find>gray</find>
       <find>3%</find>
       <find>main</find>
       <find>agb</find>
@@ -148,6 +148,7 @@
       <find>icon-faceb</find>
       <find>#myC</find>
       <find>insta</find>
+      <find>gray</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -823,7 +824,7 @@
       <updated>1525940170409</updated>
       <workItem from="1525940177489" duration="22000" />
       <workItem from="1531730058110" duration="27094000" />
-      <workItem from="1532417921638" duration="19112000" />
+      <workItem from="1532417921638" duration="20946000" />
     </task>
     <task id="LOCAL-00001" summary="new pics and responsive changes 16.07.2018">
       <created>1531748956705</created>
@@ -979,11 +980,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532618205186</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="changed background 27.07">
+      <created>1532685613940</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532685613940</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changed background 27.07">
+      <created>1532693038933</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1532693038933</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56583000" />
+    <option name="totallyTimeSpent" value="58417000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1051,7 +1066,8 @@
     <MESSAGE value="changed styles and gallery slider minimalist 25.07" />
     <MESSAGE value="style changes 25.07" />
     <MESSAGE value="style changes 26.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="style changes 26.07" />
+    <MESSAGE value="changed background 27.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed background 27.07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1435,23 +1451,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylesheet2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="478" column="0" lean-forward="true" selection-start-line="478" selection-start-column="0" selection-end-line="478" selection-end-column="0" />
+        <state relative-caret-position="471">
+          <caret line="481" column="48" lean-forward="true" selection-start-line="481" selection-start-column="48" selection-end-line="481" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/stylesheet2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="169" column="14" lean-forward="true" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>

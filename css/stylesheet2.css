@@ -90,6 +90,9 @@ ul.navbar-nav {
 .marginLeft15 {
     margin-left: 15px;
 }
+.marginTop7 {
+    margin-top: 7px;
+}
 .marginTop15 {
     margin-top: 15px;
 }
@@ -149,7 +152,6 @@ ul.navbar-nav {
 
 .agbs {
     cursor: pointer;
-    margin-top: 10px;
 }
 
 .modal-content {
