@@ -51,7 +51,6 @@ ul.navbar-nav {
 .mobileMenu a {
     font-size: 16px;
     color: #fff;
-    border: 3px solid;
 }
 .hide {
     display: none !important;
@@ -261,7 +260,6 @@ ul.navbar-nav {
 @media only screen and (max-device-width : 360px) {
     .mobileMenu a {
         font-size: 14px;
-        border: 2px solid;
     }
     .animated {
         margin-top: 50px;
