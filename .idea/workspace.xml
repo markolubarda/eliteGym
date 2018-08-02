@@ -29,11 +29,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2541">
-              <caret line="288" column="8" lean-forward="false" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
+            <state relative-caret-position="241">
+              <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5991#5998#1" expanded="true" />
+                <element signature="e#5802#5809#1" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -123,7 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>thu</find>
       <find>arrow</find>
       <find>öffnu</find>
       <find>id=&quot;pr</find>
@@ -153,6 +152,7 @@
       <find>separe</find>
       <find>index2</find>
       <find>index</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -830,7 +830,7 @@
       <workItem from="1525940177489" duration="22000" />
       <workItem from="1531730058110" duration="27094000" />
       <workItem from="1532417921638" duration="21690000" />
-      <workItem from="1533029803245" duration="8036000" />
+      <workItem from="1533029803245" duration="8284000" />
     </task>
     <task id="LOCAL-00001" summary="new pics and responsive changes 16.07.2018">
       <created>1531748956705</created>
@@ -1035,11 +1035,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533206612460</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="img add alt tags 02.08">
+      <created>1533207174175</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533207174175</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67197000" />
+    <option name="totallyTimeSpent" value="67445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1187,7 +1194,7 @@
           <caret line="493" column="7" lean-forward="true" selection-start-line="493" selection-start-column="7" selection-end-line="493" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5991#5998#1" expanded="true" />
+            <element signature="e#5802#5809#1" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1208,7 +1215,7 @@
           <caret line="308" column="34" lean-forward="false" selection-start-line="308" selection-start-column="20" selection-end-line="308" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5991#5998#1" expanded="true" />
+            <element signature="e#5802#5809#1" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1353,7 +1360,7 @@
           <caret line="600" column="0" lean-forward="true" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5991#5998#1" expanded="true" />
+            <element signature="e#5802#5809#1" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1447,7 +1454,7 @@
           <caret line="564" column="18" lean-forward="true" selection-start-line="564" selection-start-column="18" selection-end-line="564" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5991#5998#1" expanded="true" />
+            <element signature="e#5802#5809#1" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1573,11 +1580,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2541">
-          <caret line="288" column="8" lean-forward="false" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
+        <state relative-caret-position="241">
+          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5991#5998#1" expanded="true" />
+            <element signature="e#5802#5809#1" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
