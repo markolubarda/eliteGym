@@ -29,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+            <state relative-caret-position="345">
+              <caret line="459" column="18" lean-forward="true" selection-start-line="459" selection-start-column="18" selection-end-line="459" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#5802#5809#1" expanded="true" />
@@ -830,7 +830,7 @@
       <workItem from="1525940177489" duration="22000" />
       <workItem from="1531730058110" duration="27094000" />
       <workItem from="1532417921638" duration="21690000" />
-      <workItem from="1533029803245" duration="8284000" />
+      <workItem from="1533029803245" duration="8341000" />
     </task>
     <task id="LOCAL-00001" summary="new pics and responsive changes 16.07.2018">
       <created>1531748956705</created>
@@ -1042,11 +1042,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533207174175</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="img add alt tags 02.08">
+      <created>1533207451428</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1533207451428</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67445000" />
+    <option name="totallyTimeSpent" value="67502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1580,8 +1587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="459" column="18" lean-forward="true" selection-start-line="459" selection-start-column="18" selection-end-line="459" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#5802#5809#1" expanded="true" />
